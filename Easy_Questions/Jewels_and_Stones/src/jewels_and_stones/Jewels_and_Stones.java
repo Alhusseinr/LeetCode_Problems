@@ -22,6 +22,5 @@ public class Jewels_and_Stones {
         String J = "aA";
         String S = "aAAbbbb";
         numJewelsInStones(J, S);
-        
     }
 }
