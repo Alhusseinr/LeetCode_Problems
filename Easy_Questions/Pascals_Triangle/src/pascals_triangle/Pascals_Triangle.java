@@ -4,10 +4,11 @@ import java.util.*;
 public class Pascals_Triangle {
     public static void main(String[] args) {
         int numRows = 5;
-        generate(numRows);
+        int rowIndex = 3;
+        generate(numRows, rowIndex);
         
     }  
-    public static void generate(int numRows){
+    public static void generate(int numRows, int rowIndex){
         List<List<Integer>> allRows = new ArrayList();
         ArrayList<Integer> row = new ArrayList();
         
