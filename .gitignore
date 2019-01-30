@@ -19,8 +19,16 @@
 /Medium_Questions/PerfSquare/build/
 /Easy_Questions/Lists-of-lists/nbproject/private/
 /Easy_Questions/Lists-of-lists/build/
+<<<<<<< HEAD
 /Easy_Questions/Symmetric_Tree/nbproject/private/
 /Easy_Questions/Valid_Parentheses/nbproject/private/
 /Easy_Questions/Valid_Parentheses/build/
 /Easy_Questions/mergeTwoLists/nbproject/private/
 /Easy_Questions/algos/nbproject/private/
+=======
+/Easy_Questions/TwoSum/nbproject/private/
+/Easy_Questions/TwoSum/build/
+/Easy_Questions/Pascals_Triangle/nbproject/private/
+/Easy_Questions/Pascals_Triangle/build/
+/Easy_Questions/Pascals_Triangle2/nbproject/private/
+>>>>>>> f063d52d6efe1f8ab87e1dc980828107b64db7c1
